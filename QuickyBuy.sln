@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickyBuy", "QuickyBuy\QuickyBuy.csproj", "{BDA822DE-35A5-49ED-93B5-F81F8ACB506F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickBuy.Dominio", "QuickBuy.Dominio\QuickBuy.Dominio.csproj", "{C9C403F1-8103-4223-81A8-EEA7ECAB4D84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickBuy.Repositorio", "QuickBuy.Repositorio\QuickBuy.Repositorio.csproj", "{AF7D6D66-CFD9-4101-94D8-19BB9BB8B952}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{BDA822DE-35A5-49ED-93B5-F81F8ACB506F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDA822DE-35A5-49ED-93B5-F81F8ACB506F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDA822DE-35A5-49ED-93B5-F81F8ACB506F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C9C403F1-8103-4223-81A8-EEA7ECAB4D84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9C403F1-8103-4223-81A8-EEA7ECAB4D84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9C403F1-8103-4223-81A8-EEA7ECAB4D84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9C403F1-8103-4223-81A8-EEA7ECAB4D84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF7D6D66-CFD9-4101-94D8-19BB9BB8B952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF7D6D66-CFD9-4101-94D8-19BB9BB8B952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF7D6D66-CFD9-4101-94D8-19BB9BB8B952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF7D6D66-CFD9-4101-94D8-19BB9BB8B952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
